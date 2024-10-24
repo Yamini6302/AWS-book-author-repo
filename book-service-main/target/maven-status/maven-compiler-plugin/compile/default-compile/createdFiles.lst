@@ -1,0 +1,4 @@
+com\ust\book_service\BookServiceApplication.class
+com\ust\book_service\controller\BookController.class
+com\ust\book_service\model\Book.class
+com\ust\book_service\dao\BookRepository.class
