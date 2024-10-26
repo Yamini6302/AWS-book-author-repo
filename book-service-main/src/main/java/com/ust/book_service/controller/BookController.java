@@ -14,7 +14,7 @@ import org.springframework.http.ResponseEntity;
 import com.ust.book_service.model.Book;
 
 @RestController
-@RequestMapping("/books")
+@RequestMapping("/api/books")
 public class BookController {
 
 	@Autowired
