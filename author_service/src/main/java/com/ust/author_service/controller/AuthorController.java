@@ -10,7 +10,7 @@ import com.ust.author_service.dao.AuthorRepository;
 import java.util.List;
 
 @RestController
-@RequestMapping("/authors")
+@RequestMapping("/api/authors")
 public class AuthorController {
 
     @Autowired

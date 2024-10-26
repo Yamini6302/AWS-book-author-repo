@@ -17,7 +17,7 @@ import com.ust.authentication_service.service.UserService;
 
 
 @RestController
-@RequestMapping("/auth")
+@RequestMapping("/api/auth")
 public class UserCredentialsController {
     @Autowired
     JwtService jwtService;
